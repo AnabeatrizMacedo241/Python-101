@@ -24,4 +24,6 @@ ano_nascimento = 2003
 idade = ano_atual - ano_nascimento
 print(idade)
 
+18>20
+
 
