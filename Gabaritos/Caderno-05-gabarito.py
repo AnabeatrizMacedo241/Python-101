@@ -21,7 +21,6 @@ def num():
             num2 = int(input("Tente novamente. Digite um número: "))
         finally:
             print ("Obrigado!")
-        print (val) 
 num()
 
 3. Lista = ['a', 'e', 'i', 'o', 'u']
