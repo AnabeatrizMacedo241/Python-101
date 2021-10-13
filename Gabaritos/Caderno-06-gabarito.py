@@ -39,7 +39,6 @@ device1.print_mp3player()
 
 3.
 class temperatura():
-    pi = 3.14
     def __init__(self, temp):
         self.temp = temp 
     def cel2kel(self):
