@@ -10,3 +10,4 @@ Tópicos, por enquanto, publicados:
 - Tratamento de erros
 - Pacotes e módulos
 - Programação orientada a objetos
+- List Comprehension
