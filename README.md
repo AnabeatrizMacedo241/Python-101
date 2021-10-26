@@ -16,4 +16,5 @@ Tópicos, por enquanto, publicados:
 
 Futuros tópicos<ul>
 	<li> [ ] Filas e Pilhas</li>
+	<li> [ ] Regex</li>
 </ul>
