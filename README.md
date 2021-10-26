@@ -13,3 +13,7 @@ Tópicos, por enquanto, publicados:
 - Pacotes e módulos
 - Programação orientada a objetos
 - List Comprehension
+
+Futuros tópicos<ul>
+	<li> [ ] Filas e Pilhas</li>
+</ul>
