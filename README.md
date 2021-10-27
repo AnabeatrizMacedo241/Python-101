@@ -13,8 +13,8 @@ Tópicos, por enquanto, publicados:
 - Pacotes e módulos
 - Programação orientada a objetos
 - List Comprehension
+- Filas e Pilhas
 
 Futuros tópicos<ul>
-	<li> [ ] Filas e Pilhas</li>
 	<li> [ ] Regex</li>
 </ul>
