@@ -14,7 +14,3 @@ Tópicos, por enquanto, publicados:
 - Programação orientada a objetos
 - List Comprehension
 - Filas e Pilhas
-
-Futuros tópicos<ul>
-	<li> [ ] Regex</li>
-</ul>
