@@ -21,6 +21,10 @@ for k in range(2, 99, 2):
 print(contador)
 
 3. 
+num = int(input('Number: '))
+print(f'------ Multiplication of {num} ------')
+for k in range(1,11):
+  print(num,'x',k,'=',num*k)
 
 4.
 nota1 = float(input('Qual a primeira nota?'))
